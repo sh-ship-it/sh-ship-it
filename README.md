@@ -2,7 +2,7 @@
 <h3 align="center">Building scalable products with AI, modern web technologies, and a passion for solving real-world problems.</h3>
 
 
-<img src="images/banner.png" alt="Project Logo" width="300" height="200" align="center">
+<img src="banner.gif" alt="Project Logo" width="300" height="200" align="center">
 
 - 🌱 I’m currently learning **DataScience, Ml, react-native**
 
