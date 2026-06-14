@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Shubham Gharte</h1>
 <h3 align="center">Building scalable products with AI, modern web technologies, and a passion for solving real-world problems.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sh-ship-it" alt="sh-ship-it" /></a> </p>
+
+<img src="images/banner.png" alt="Project Logo" width="300" height="200" align="center">
 
 - 🌱 I’m currently learning **DataScience, Ml, react-native**
 
