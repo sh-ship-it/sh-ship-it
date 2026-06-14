@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Shubham Gharte</h1>
+
+
+<img src="banner.gif" alt="Project Logo" width="1000" height="500" align="center">
+
 <h3 align="center">Building scalable products with AI, modern web technologies, and a passion for solving real-world problems.</h3>
-
-
-<img src="banner.gif" alt="Project Logo" width="300" height="200" align="center">
-
 - 🌱 I’m currently learning **DataScience, Ml, react-native**
 
 - 👨‍💻 All of my projects are available at [shubham.vercel.app](shubham.vercel.app)
